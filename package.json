@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "compile": "tsc -p .",
+    "build": "tsc -p .",
     "test": "mocha test/ --require ts-node/register"
   },
   "author": "Alex Goico",
