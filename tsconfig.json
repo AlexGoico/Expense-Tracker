@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": "./dist/",
+    "noImplicitAny": true,
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "allowJs": true
+  },
+  "exclude": [
+    "node_modules",
+    "dist",
+    "wallaby.js"
+  ]
+}
