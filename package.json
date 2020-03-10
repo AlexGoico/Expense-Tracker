@@ -1,6 +1,6 @@
 {
   "name": "expense-tracker",
-  "version": "0.0.9000",
+  "version": "0.1.0",
   "description": "",
   "main": "index.ts",
   "scripts": {
